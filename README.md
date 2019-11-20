@@ -1,6 +1,6 @@
 ## Notebook Directory Path Confusion Issue
 
-See jupyter/notebook#5072
+See [jupyter/notebook#5072](https://github.com/jupyter/notebook/issues/5072)
 
 `docker-compose up`
 
